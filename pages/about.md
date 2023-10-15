@@ -8,11 +8,13 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I'm a year 2 diploma student studying Information Technology in Multimedia University.
+I like exploring and learning new stuff. I mostly build websites, but I've also done mobile apps, games and utility scripts.
+I aspire to be a full-stack developer in the future.
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Programming languages" source=site.data.programming-skills %}
+{% include about/skills.html title="Technologies" source=site.data.other-skills %}
 </div>
 
 <div class="row">

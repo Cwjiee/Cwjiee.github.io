@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
+- name: Ruby on Rails
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+- name: ReactJs
+  percentage: 90
+  color: success
+
+- name: NextJs
+  percentage: 90
+  color: success
+    
+- name: Gin
   percentage: 90
   color: success
