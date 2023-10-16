@@ -1,9 +1,31 @@
 ### Site Settings ###
 title               : Wei Jie
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      <style>
+                      .button {
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        padding: 5px;
+                        width: 50%;
+                        background: #007BFF;
+                        text-align: center;
+                        border-radius: 5px;
+                        color: white;
+                        font-weight: bold;
+                        line-height: 25px;
+                        margin-top: 3%;
+                        margin-left: auto;
+                        margin-right: auto;
+                        text-decoration: none;
+                        color: white;
+                      }
+                      </style>
+                      
+                      Welcome to my portfolio website, where I'll be showcasing my projects and other stuff.
+                      <a style="background:#007BFF" class='button' target='_blank' rel='noopener noreferrer' href='https://amorehead.github.io/assets/pdf/Alex_Morehead_CV.pdf'>
+                        CV/Resume
+                      </a>
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : Cwjiee/Cwjiee.github.io           # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -25,7 +47,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Chong Wei Jie
-# image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : https://Cwjiee.github.io/assets/img/portfolio_pic.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : jackchong398.com
@@ -34,7 +56,7 @@ author:
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-# linkedin          : your_username
+  linkedin          : chong-wei-jie-04a7b1279
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
