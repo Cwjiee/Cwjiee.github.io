@@ -23,7 +23,7 @@ description         : >-
                       </style>
                       
                       Welcome to my portfolio website, where I'll be showcasing my projects and other stuff.
-                      <a style="background:#007BFF" class='button' target='_blank' rel='noopener noreferrer' href='https://amorehead.github.io/assets/pdf/Alex_Morehead_CV.pdf'>
+                      <a class='button' target='_blank' rel='noopener noreferrer' href='https://Cwjiee.github.io/assets/pdf/resume.pdf'>
                         CV/Resume
                       </a>
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -47,7 +47,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Chong Wei Jie
-  image             : https://Cwjiee.github.io/assets/img/portfolio_pic.jpg
+  image             : https://Cwjiee.github.io/assets/img/portfolio-pic.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : jackchong398.com
