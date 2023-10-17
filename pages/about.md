@@ -18,7 +18,7 @@ I aspire to be a full-stack developer in the future.
 {% include about/skills.html title="Technologies" source=site.data.other-skills %} -->
   <p>
     <h4>Programming Languages</h4>
-    <div class="row w-50 ml-1">
+    <div class="row w-sm-100 ml-1">
         {% for lang in site.data.programming-languages %}
         <img src="../assets/svg/{{ lang.name }}.svg" width="50" height="50" class="m-2"/>
         {% endfor %}
@@ -27,7 +27,7 @@ I aspire to be a full-stack developer in the future.
   <br/>
   <p>
     <h4>Technologies</h4>
-    <div class="row w-50 ml-1">
+    <div class="row w-sm-100 ml-1">
         {% for tech in site.data.technologies %}
         <img src="../assets/svg/{{ tech.name }}.svg" width="50" height="50" class="m-2"/>
         {% endfor %}
