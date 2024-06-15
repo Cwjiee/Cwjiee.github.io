@@ -6,6 +6,8 @@
 
 - name: svelte
 
-- name: sqlite
+- name: postgres
 
-- name: tailwind
+- name: mysql
+
+- name: sqlite

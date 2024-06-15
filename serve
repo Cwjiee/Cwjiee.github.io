@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# To start jekyll engine
+bundle exec jekyll serve
