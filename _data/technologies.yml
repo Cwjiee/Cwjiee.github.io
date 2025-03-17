@@ -6,8 +6,12 @@
 
 - name: svelte
 
+- name: nestjs
+
+- name: rabbitmq
+
 - name: postgres
 
-- name: mysql
-
 - name: sqlite
+
+- name: mongodb

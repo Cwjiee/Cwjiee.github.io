@@ -1,12 +1,28 @@
-- title: Diploma in Information Technology, MMU 
-  from: 2022
+- title: President of Hackerspace MMU
+  from: 2024
   to: present
-  description: I'm currently studying Diploma in Information Technology in MMU Cyberjaya. I have achieved dean's list award consecutively till present.
+  description: Maintaining and upgrading the webapp built using ruby on rails that tracks all members project talks and manage in onboarding new members and helping them by walking through on their an idea to prepare them for their first project talk.
+
+- title: Bachelor of Computer Science, Multimedia University
+  from: 2024
+  to: present
+  
+- title: Part Time Software Engineer, Oyencov
+  from: August 2024
+  to: October 2024
+
+- title: Software Engineer Intern, Oyencov
+  from: March 2024
+  to: July 2024
+  description: Interned as a software engineer in Oyencov. 
+          Tasked building the OyenCov product, a testing coverage tool for Ruby on Rails. 
+          Built the API server that renders and processes data of each project’s test coverage.
+          Improved the UIUX of the website for user friendliness.
+
+- title: Diploma in Information Technology, Multimedia University
+  from: 2022
+  to: 2024
+  description: Studied Diploma in Information Technology in MMU Cyberjaya. I have achieved dean's list award consecutively till present.
                I'm also a member in MMU IT society technical team, tasked to maintain IT society website. I have actively
                volunteered in multiple IT society events such as Barcamp 2022, Tech Career Days 2023, CodeNection 2023
                and Barcamp 2023. Besides that, I'm also the secretary of Hackespace MMU.
-
-- title: Software Engineer Intern, Oyencov
-  from: 2024
-  to: present
-  description: I'm having my internship as a software engineer in Oyencov. I'm tasked with assisting in building the main web page for Oyencov.
